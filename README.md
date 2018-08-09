@@ -44,7 +44,7 @@
 		<h1>Menu</h1>
 	</center>
 
-<a href="file:///D:/@Lydia/Programming/Breakfastideas.html">
+<a href="https://lydiathecodingkid.github.io/Breakfast/">
 <div class="Breakfast">
 	<h2>Breakfast</h2>	
 </div>
